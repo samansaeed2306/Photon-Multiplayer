@@ -1,0 +1,5 @@
+sceneSetups:
+- path: E:/Unity-Photon-Multiplayer-Base-main/Unity-Photon-Multiplayer-Base-main/Assets/Menu/Menu.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
